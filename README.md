@@ -34,3 +34,5 @@ In summary, this code creates a basic chatbot interface with predefined response
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/56924a1f-0ae4-4f5a-8a84-5de6952d8fd6)
+![Image](https://github.com/user-attachments/assets/56db0fb5-3fcb-4168-98f6-af626000f18d)
